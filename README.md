@@ -29,6 +29,7 @@ Git          ███████████████░░░░░  75%
 ```
 
 </div>
+
 ### `$ ./stats.sh`
 
 <div align="center">
@@ -40,11 +41,9 @@ Git          ███████████████░░░░░  75%
 </div>
 
 ### `$ ls liens/`
-
 <div align="center">
 [![Portfolio](https://img.shields.io/badge/Portfolio-0C0C0D?style=for-the-badge&logo=readme&logoColor=BE9A63)](https://mexaldev.github.io/Portofolio/main.html)
 </div>
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1D,100:0C0C0D&height=100&section=footer" width="100%" />
