@@ -1,13 +1,8 @@
-<!-- 
-  README de profil GitHub — s'affiche sur github.com/mexaldev
-  Repo requis : mexaldev/mexaldev (public), README.md à la racine
--->
-
 <div align="center">
 
 # Mexal
 
-Développeur — 3+ ans d'expérience
+Développeur amateur autodidacte
 
 ![Café](https://img.shields.io/badge/Café-toujours_froid-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Disponibilité-Ouvert%20aux%20opportunités-brightgreen?style=flat-square)
