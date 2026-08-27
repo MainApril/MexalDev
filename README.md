@@ -1,53 +1,35 @@
+<!-- 
+  README de profil GitHub — s'affiche sur github.com/mexaldev
+  Repo requis : mexaldev/mexaldev (public), README.md à la racine
+-->
+
 <div align="center">
-<!-- bannière via capsule-render : service fiable, pas de police custom qui peut casser -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B3A,50:2E2158,100:3A1E4D&height=180&section=header&text=Mexal&fontSize=54&fontColor=FFFFFF&desc=développeur%20web%20—%20construit%20des%20trucs,%20tranquillement.&descSize=16&descColor=E8A33D&descAlignY=62&fontAlignY=38&animation=fadeIn" width="100%" />
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=E8A33D&center=true&vCenter=true&width=460&lines=git+commit+-m+%22ca+marche+sur+ma+machine%22;debug+a+2h+du+mat%2C+classique;cafe+froid%2C+comme+toujours" alt="typing" />
+
+# Mexal
+
+Développeur — 3+ ans d'expérience
+
+![Experience](https://img.shields.io/badge/Expérience-3%2B%20ans-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Disponibilité-Ouvert%20aux%20opportunités-brightgreen?style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<br>
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mexaldev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://mexaldev.github.io/Portofolio/main.html)
+[![Mail](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:toi@exemple.com)
+
 </div>
 
-
----
-### `$ cat stack.json`
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,py,java,c,git&theme=dark" />
 
 </div>
 
 <br>
 
 <div align="center">
-
-```text
-JavaScript   ████████████████████  100%
-Java         ████████████░░░░░░░░  60%
-Node.js      ██████████████░░░░░░  70%
-HTML / CSS   █████████████████░░░  85%
-C            ██░░░░░░░░░░░░░░░░░░  10%
-Python       ████████████░░░░░░░░  60%
-Git          ███████████████░░░░░  75%
-```
-
-</div>
-
-### `$ ./stats.sh`
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/mexaldev?style=for-the-badge&color=BE9A63&labelColor=1A1A1D&label=followers" />
-<img src="https://img.shields.io/github/stars/mexaldev?style=for-the-badge&color=BE9A63&labelColor=1A1A1D&label=stars" />
-<img src="https://komarev.com/ghpvc/?username=mexaldev&style=for-the-badge&color=BE9A63&label=VUES" />
-
-</div>
-
-### `$ ls liens/`
-<div align="center">
-[![Portfolio](https://img.shields.io/badge/Portfolio-0C0C0D?style=for-the-badge&logo=readme&logoColor=BE9A63)](https://mexaldev.github.io/Portofolio/main.html)
-</div>
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1D,100:0C0C0D&height=100&section=footer" width="100%" />
-
-<div align="center">
-<sub>© 2026 mexal</sub>
+<sub><i>Ca marche sur ma machine ... - Un inconnu</i></sub>
 </div>
