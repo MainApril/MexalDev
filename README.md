@@ -9,7 +9,7 @@
 
 Développeur — 3+ ans d'expérience
 
-![Experience](https://img.shields.io/badge/Expérience-3%2B%20ans-blue?style=flat-square)
+![Café](https://img.shields.io/badge/Café-toujours_froid-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Disponibilité-Ouvert%20aux%20opportunités-brightgreen?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
